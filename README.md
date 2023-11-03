@@ -13,6 +13,8 @@
 3 python3 dedsec.py
 
 برای اجرا در کالی لینوکس 
+
+
 4 sudo python3 dedsec.py
 
 
